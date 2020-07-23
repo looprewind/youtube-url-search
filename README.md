@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
+## About me
+
+It's the first time in my life I develop something with Angular and with not much success :frowning:. Please checkout the Backend project that it's far better than this... 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
